@@ -13,6 +13,5 @@
     </head>
     <body>
         <h1>Hello World!</h1>
-        <h2>Hello ${firstname} ${lastname}</h2>
-    </body>
+        <h2>Hello ${person.firstname} ${person.lastname}</h2>
 </html>
